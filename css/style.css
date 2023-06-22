@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+/* topo da página, logo e menu */
+
+.logoprincipal {
+        margin:0rem;
+        padding:0rem;
+        position:fixed;
+        border: none;
+}
+
+picture {
+        
+}
+
+.menu {
+    text-decoration-line: overline;
+    font-family:Arial, Helvetica, sans-serif;
+    tex
+    background-color: beige;
+}
+
+
+menu li {
+
+}
+    
+
+/* corpo da página */
+
+body {
+    background-color: beige;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.conteudo {
+    font-style: bold;
+}
+
+h2 {
+    font-size: large;
+    font-style: italic;
+}
+
+.msecundario {
+
+}
+
+/* rodapé */
+
+.mfooter {
+
+}
+
+.fnews {
+
+
+}
+
+/* outros estilos */
+
+br {
+
+}
